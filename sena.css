@@ -1,0 +1,37 @@
+.box{
+	margin: 100px auto;
+	border: transparent;
+	width: 400px;
+	border-radius: 40px;
+	height: 42px;
+	overflow: hidden;
+
+}
+.input{
+	outline: none;
+	height: 40px;
+	width: 300px;
+	border-radius: 40px;
+	border: 0;
+
+}
+.bima{
+	background: transparent;
+	outline: none;
+	border: 0;
+	
+}
+.box:hover{
+	background-color: gray;
+	border-radius: 40px;
+}
+body{
+	background-image: url(https://media.suara.com/pictures/653x366/2016/03/09/o_1adcrou361ajjceh9c013fbsqfe.jpg);
+}
+h1{
+	text-align: center;
+	color: whitesmoke;
+	text-decoration: overline;
+	height: 10px;
+	
+}
